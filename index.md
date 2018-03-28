@@ -1,4 +1,4 @@
-osdevelopment.info
+# osdevelopment.info
 
 osdevelopment.info is a different view on the topic of operating-systems and the development of it.
 
