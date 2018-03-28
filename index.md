@@ -1,4 +1,6 @@
-This is the main page of osdevelopment.info.
+osdevelopment.info
+
+osdevelopment.info is a different view on the topic of operating-systems and the development of it.
 
 The following projects are currently available:
 
